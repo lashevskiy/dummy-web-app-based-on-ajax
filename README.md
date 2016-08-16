@@ -1,3 +1,2 @@
 # dummy-web-app-based-on-ajax
-web application based on ajax
-also HTML, jquery, PHP and MySQL
+Web application based on AJAX. Also that uses: HTML, jquery, PHP and MySQL
